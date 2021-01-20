@@ -2,7 +2,7 @@
 	{
 		"user": "Developer",
 		"key": "ZDgwMmEzNzI1OWI2ZDlmNzIxNTUxMTFiYzJlMGVjMTM=",
-		"description":"Protect your IP address.",
-		"timestamp": "12/01/2021 00:00:00"
+		"description":"A license key for developer.",
+		"timestamp": "20/01/2021 18:00:00"
 	}
 ]
