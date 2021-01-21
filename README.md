@@ -16,7 +16,7 @@
 		{
 		"user": "Sirii",
 		"key": "MjEwOWUwY2M3MzY2OTliYzExYzQ1MmM0ODhlZWEyNWQ=",
-		"description": "He like a super dog!",
+		"description": "First Vietnamese buyer!",
 		"timestamp": "20/01/2021 23:37:04",
 		"last-updated": "20/01/2021 23:37:04"
 	}
