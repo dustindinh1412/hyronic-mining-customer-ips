@@ -1,5 +1,8 @@
 [
 	{
+		"version": "1.2.1"
+	},
+	{
 		"user": "Developer",
 		"key": "ZWYxMjYyZDdiZTcwMDg4NTI4ZmZkOTdiNWEyNjhkZjQ=",
 		"description": "A license key for developer.",
