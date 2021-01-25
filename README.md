@@ -4,10 +4,10 @@
 	},
 	{
 		"user": "Developer",
-		"key": "ZWYxMjYyZDdiZTcwMDg4NTI4ZmZkOTdiNWEyNjhkZjQ=",
+		"key": "NDdhZDk0YmNiNTQyNzQ5NzlhNzQ1ZTc1NWM2ZTY2MmU=",
 		"description": "A license key for developer.",
 		"timestamp": "20/01/2021 17:51:32",
-		"last-updated": "22/01/2021 10:53:24"
+		"last-updated": "25/01/2021 11:23:30"
 	},
 	{
 		"user": "DustinDinh",
