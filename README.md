@@ -1,6 +1,6 @@
 [
 	{
-		"version": "1.4.5"
+		"version": "1.4.8"
 	},
 	{
 		"user": "Developer",
